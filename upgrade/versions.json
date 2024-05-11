@@ -1,0 +1,14 @@
+[
+    {
+      "metadata": {
+        "name": "v1.1.1"
+      },
+      "spec": {
+        "version": "v1.1.1",
+        "type": "container",
+        "metadata": {
+          "upgradeImage": "australia-southeast1-docker.pkg.dev/cpas-269913/public/pch-elemental-img:v1.1.1"
+        }
+      }
+    }
+  ]
